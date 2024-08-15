@@ -11,5 +11,7 @@ public class variable {
 
         System.out.println(numeroEntero);
     }
+
+    
 }
 
